@@ -509,6 +509,14 @@ aside .targeta .cara h3{
 @media (max-width: 480px) {
     .logo img, .logo1 img {
         max-width:150px; 
+	    iframe {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16/9;
+  border: none;
+}
     }
 }
 @media (max-width: 768px) {
@@ -551,4 +559,5 @@ aside .targeta .cara h3{
     border-color: transparent;
   }
 }
+
 
