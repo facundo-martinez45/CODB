@@ -506,7 +506,7 @@ aside .targeta .cara h3{
     max-width:190px; 
     }
 }
-@media (max-width: 480px) {
+@media (max-width: 450px) {
     .logo img, .logo1 img {
         max-width:150px; 
 	    iframe {
